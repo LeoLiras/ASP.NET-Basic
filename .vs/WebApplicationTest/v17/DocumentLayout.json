@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\WebApplicationTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6424-E7FE-4FE2-942A-F33D2F048EAB}|WebApplicationTest\\WebApplicationTest.csproj|c:\\projetos\\webapplicationtest\\webapplicationtest\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED6424-E7FE-4FE2-942A-F33D2F048EAB}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6424-E7FE-4FE2-942A-F33D2F048EAB}|WebApplicationTest\\WebApplicationTest.csproj|c:\\projetos\\webapplicationtest\\webapplicationtest\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADED6424-E7FE-4FE2-942A-F33D2F048EAB}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6424-E7FE-4FE2-942A-F33D2F048EAB}|WebApplicationTest\\WebApplicationTest.csproj|c:\\projetos\\webapplicationtest\\webapplicationtest\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADED6424-E7FE-4FE2-942A-F33D2F048EAB}|WebApplicationTest\\WebApplicationTest.csproj|solutionrelative:webapplicationtest\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\WebApplicationTest\\WebApplicationTest\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Projetos\\WebApplicationTest\\WebApplicationTest\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "WebApplicationTest\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:37:52.217Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\WebApplicationTest\\WebApplicationTest\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\Projetos\\WebApplicationTest\\WebApplicationTest\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeToolTip": "WebApplicationTest\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:42:17.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\WebApplicationTest\\WebApplicationTest\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Projetos\\WebApplicationTest\\WebApplicationTest\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "WebApplicationTest\\Views\\Contato\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:33:03.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
