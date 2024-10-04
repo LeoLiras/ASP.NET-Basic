@@ -5,9 +5,7 @@
 }
 
 <div class="text-center">
-    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="Criar">Adicionar novo contato</a>
-    </div>
+    
     <br\>
 
         @if(TempData["MensagemSucesso"] != null)
@@ -60,5 +58,8 @@
                 }
         </tbody>
     </table>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <a class="btn btn-primary mt-4" role="button" asp-controller="Contato" asp-action="Criar">Adicionar</a>
+        </div>
 </div>
 
